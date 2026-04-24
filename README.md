@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there, I'm Nabila 👋
 
-<!--
-**NabilaAurora/NabilaAurora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an Industrial Engineering student at UPN “Veteran” Jakarta with a strong interest in understanding how systems work and how they can be improved.
 
-Here are some ideas to get you started:
+I’m particularly drawn to the intersection of data, structure, and real-world problems—where analysis can turn complexity into clear, actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 About Me
+
+* 🎓 Industrial Engineering student
+* 📊 Interested in Data Analysis & Decision-Making
+* 🧠 Enjoy translating complex problems into structured insights
+* 🚀 Currently building projects to strengthen my analytical skills
+
+---
+
+## 🛠️ Tech Stack
+
+* 📊 Excel (Dashboard, Pivot Tables, Data Cleaning)
+* 🐍 Python (learning)
+* 🗄️ SQL (learning)
+
+---
+
+## 📌 Projects
+
+* 🌫️ Air Quality Analysis Dashboard (Excel)
+  → Identified pollution patterns and peak conditions using interactive visualization
+
+---
+
+## 🌱 Currently Exploring
+
+* Data analysis with Python
+* SQL for data querying
+* Data-driven decision making
+
+---
+
+✨ I’m driven by curiosity, structured thinking, and continuous learning.
+
