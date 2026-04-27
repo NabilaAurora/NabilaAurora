@@ -18,9 +18,11 @@ I’m particularly drawn to the intersection of data, structure, and real-world 
 ## 🛠️ Tech Stack
 
 * 📊 Excel (Dashboard, Pivot Tables, Data Cleaning)
-* 🐍 Python (learning)
+* 🐍 Python (pandas, matplotlib)
+* 📓 Jupyter Notebook / Google Colab
+* 📊 Tableau (interactive dashboard)
 * 🗄️ SQL (learning)
-
+  
 ---
 
 ## 📌 Projects
