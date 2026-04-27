@@ -27,8 +27,13 @@ I’m particularly drawn to the intersection of data, structure, and real-world 
 
 ## 📌 Projects
 
-* 🌫️ Air Quality Analysis Dashboard (Excel)
-  → Identified pollution patterns and peak conditions using interactive visualization
+- 🚍 Urban Transport Pattern Analysis (Python, Tableau)  
+  → End-to-end analysis of public transport data (data cleaning, feature engineering, visualization)  
+  → Built interactive dashboard to explore route distribution and operating behavior  
+  → Identified that short-distance routes dominate and tend to operate longer  
+
+- 🌫️ Air Quality Analysis Dashboard (Excel)  
+  → Explored pollution trends and peak conditions using dashboard visualization  
 
 ---
 
