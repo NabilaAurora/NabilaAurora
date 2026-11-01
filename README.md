@@ -1,6 +1,6 @@
 # Hi there, I'm Nabila 👋
 
-I’m an Industrial Engineering student at UPN “Veteran” Jakarta with a strong interest in understanding how systems work and how they can be improved.
+Industrial Engineering graduate (S.T.) from UPN “Veteran” Jakarta with a strong interest in understanding how systems work and how they can be improved.
 
 I’m particularly drawn to the intersection of data, structure, and real-world problems—where analysis can turn complexity into clear, actionable insights.
 
